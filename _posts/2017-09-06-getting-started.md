@@ -5,9 +5,14 @@ date:   2017-09-06
 ---
 
 ### Sharewilly WP
-Sharewilly WP ist ein kostenfreies WordPress-Plugin. Mit Sharewilly WP können deine Webseitenbesucher deine Beiträge und Webseiten in den Sozialen Medien teilen.  
+Sharewilly WP ist ein kostenfreies WordPress-Plugin der Münnecke & Vollmers GbR. Mit Sharewilly WP können deine Webseitenbesucher deine Beiträge und Webseiten in den Sozialen Medien teilen.  
 
-* lalal
+* Sharing-Buttons für Facebook, Google+, Twitter, LinkedIn, XING & Pinterest
+* Für die Buttons haben wir ausschliesslich statische Links verwendet - kein JavaScript!
+  Beispiel:
+  {% highlight scss %}
+  http://twitter.com/share?url
+* Sharewilly WP ist effizient, schlank und schnell.
 
 ### Download
 Github has a [guide here](https://help.github.com/articles/creating-project-pages-manually/) for manually setting up a new project page.
