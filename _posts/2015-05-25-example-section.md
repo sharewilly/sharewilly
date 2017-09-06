@@ -18,7 +18,7 @@ Dein eigenes soziales Netzwerk / dein eigenes Intranet
 #### widilocloud
 Eine selbstgehostete Dropbox mit einem umfassenden Dokumentmanagement
 #### callmewilly
-Dein eigener, selbstgehosteter Doodle-Kalendar
+Dein eigener, selbstgehosteter Doodle-Kalender
 
 ### Softwareapplikationen
 
