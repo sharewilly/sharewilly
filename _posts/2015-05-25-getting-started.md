@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Getting Started"
-date:   2015-05-25 07:30:16
+date:   2017-09-06
 ---
 
-### Create the pages branch
+### Sharewilly WP WordPress Plugin
 Github has a [guide here](https://help.github.com/articles/creating-project-pages-manually/) for manually setting up a new project page.
 
 ### Install
