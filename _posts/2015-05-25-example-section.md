@@ -17,5 +17,5 @@ Projekt-, Dienst-, Raum und Einsatzplanung für Handwerksbetriebe (auch als LINU
 Dein eigenes soziales Netzwerk / dein eigenes Intranet
 #### widilocloud
 Eine selbstgehostete Dropbox mit einem umfassenden Dokumentmanagement
-####Calwilly
+#### Callmewilly
 Dein eigener, selbstgehosteter Doodle-Kalendar
