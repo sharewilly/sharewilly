@@ -67,9 +67,10 @@ body {
 .project-summary {
     margin-top: 10px;
     margin-bottom: 40px;
-    font-size: 1.6em;
+    font-size: 2em;
     line-height: 1.6em;
-    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
     padding: 0 20px;
 }
 
@@ -79,6 +80,7 @@ body {
     text-decoration: none;
     font-size: 1.8em;
     font-weight: 500;
+    font-family: 'Roboto', sans-serif;
     color: #FFF;
 }
 
@@ -177,7 +179,7 @@ body {
     .page-navigation-title {
         margin: 0 0 20px;
         padding: 0;
-
+        font-family: 'Roboto', sans-serif;
         font-size: 2.4em;
         line-height: 1em;
         font-weight: 700;
@@ -193,10 +195,12 @@ body {
 
     li {
         margin-bottom: 5px;
+        font-family: 'Roboto', sans-serif;
     }
 
     a {
         font-size: 1.6em;
+        font-family: 'Roboto', sans-serif;
         line-height: 1.8em;
         text-decoration: none;
         color: $copy-colour;
@@ -226,7 +230,7 @@ body {
     .section-title h1 {
         margin: 0 0 20px;
         padding: 0;
-
+font-family: 'Roboto', sans-serif;
         font-size: 2.4em;
         line-height: 1em;
         font-weight: 700;
