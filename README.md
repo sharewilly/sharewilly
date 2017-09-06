@@ -7,5 +7,5 @@ Sharewilly WP is a very simple and clean WordPress-Plugin. Once installed and ac
 
 Simple sharing - Sharewilly WP :-)
 
-(c) 2017 Münnecke & Vollmers GbR
+Copyright (c) 2017 Münnecke & Vollmers GbR
 
