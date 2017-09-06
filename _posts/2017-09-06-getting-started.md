@@ -15,23 +15,23 @@ Sharewilly WP ist ein kostenfreies WordPress-Plugin der Münnecke & Vollmers GbR
 * Sharewilly gibt es auch in der PRO-Version mit einer Reihe zusätzlicher Funktionen.
 
 ### Download
-Github has a [Sharewilly WP Download]((https://github.com/sharewilly/sharewilly-wp/archive/master.zip)).
+Hier kannst du [Sharewilly WP herunterladen](https://github.com/sharewilly/sharewilly-wp/archive/master.zip).
 
 ### Installieren
 
-Um das Sharewilly WP WordPress Plugin auf deiner WordPress.Seite zu installieren, kannst du den eingebauten Plugin-Installer nutzen:
+Um das Sharewilly WP WordPress Plugin auf deiner WordPress.Seite zu installieren, kannst du den eingebauten WordPress-Plugin-Installer nutzen:
 
 1. Lade [Sharewilly WP (ZIP)](https://github.com/sharewilly/sharewilly-wp/archive/master.zip) auf deine Festplatte.
 2. Rufe deine WordPress-Seite auf und logge dich als Admin ein.
 3. Gehe im Admin-Menü zu > Plugins > Installieren. 
-4. Klicke auf > Plugin hochladen > Datei auswählen. Wähle "sharewilly-wp.zip" von deiner Festplatte aus.
-5. Klicke auf > Jetzt installieren. Sharewilly WP wird jetzt installiert.
-6. Nachdem der Installationsvorgang erfolgreich abgeschlossen ist, klicke > Plugin aktivieren.
-7. Sharewilly WP erscheint nun automatisch auf all deinen Seiten und in deinen Beiträgen jeweils am Ende der Seite bzw. unter den Beiträgen.
+4. Klicke auf > Plugin hochladen > Datei auswählen. 
+5. Wähle "sharewilly-wp.zip" von deiner Festplatte aus.
+6. Klicke auf > Jetzt installieren. 
+7. Nachdem der Installationsvorgang erfolgreich abgeschlossen ist, klicke > Plugin aktivieren.
 
-# Settings / Optionen
+Sharewilly WP erscheint nun automatisch auf all deinen Seiten und in deinen Beiträgen jeweils am Ende der Seite bzw. unter den Beiträgen.
 
-Nachdem du Sharewilly installiert hast erschein ein neuer Menüpunkt in deinem Admin-Menü auf der linken Seite"Sharewilly WP" in the admin menu. On our Sharewilly WP settings page you are able to change the text in front of the sharing buttons. 
+### Optionen / Anpassen
 
-### Anpassen
-To change 
+Nachdem du Sharewilly WP installiert hast, erscheint ein neuer Menüpunkt in deinem Admin-Menü auf der linken Seite "Sharewilly WP". Auf der Seite mit den Optionen kannst du den Text, der vor den Teilen-Buttons erscheint ändern.
+
