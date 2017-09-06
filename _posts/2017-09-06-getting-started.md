@@ -39,4 +39,10 @@ Nachdem du Sharewilly WP installiert hast, erscheint ein neuer Menüpunkt in dei
 
 Sende uns eine E-Mail an hallo@sharewilly.de, wenn du Hilfe brauchst oder wenn du ein individuelles WordPress-Plugin dein eigen nennen willst.
 
+### Sharewilly WP PRO
+
+Coming soon...mit vielen zusätzlichen Funktionen und Optionen.
+
+
+
 
