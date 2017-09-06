@@ -9,9 +9,10 @@ Sharewilly WP ist ein kostenfreies WordPress-Plugin der Münnecke & Vollmers GbR
 
 * Sharing-Buttons für Facebook, Google+, Twitter, LinkedIn, XING & Pinterest
 * Für die Buttons haben wir ausschliesslich statische Links verwendet - kein JavaScript!
-  Beispiel:
+  `Beispiel:`
   {% highlight scss %}
   http://twitter.com/share?url
+  {% endhighlight %}
 * Sharewilly WP ist effizient, schlank und schnell.
 
 ### Download
