@@ -5,7 +5,7 @@ Sharewilly WP is a very simple and clean WordPress-Plugin. Once installed and ac
 
 [Download Sharewilly WP](https://github.com/sharewilly/sharewilly-wp/archive/master.zip)
 
-[Installation & FAQ](https://github.com/sharewilly/sharewilly-wp/)
+[Installation & FAQ](https://github.com/sharewilly/sharewilly-wp/) 
 
 Simple sharing - Sharewilly WP :-)
 
