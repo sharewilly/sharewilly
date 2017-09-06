@@ -14,8 +14,8 @@ url: "http://sharewilly.github.io/sharewilly"
 
 # Theme Settings
 hero_image: "images/default.jpg"
-homepage: "http://sharewilly.de"
-download_link: "#"
+homepage: "http://muennecke-vollmers.de"
+download_link: "https://github.com/sharewilly/sharewilly-wp"
 
 
 # Build settings
