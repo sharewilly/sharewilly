@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
 blockquote {
     margin: 30px 0;
     border-left: 8px solid $secondary-colour;
@@ -41,4 +42,5 @@ table {
 
 p {
     margin: 0 0 30px;
+    font-family: 'Roboto', sans-serif;
 }
