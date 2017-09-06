@@ -11,11 +11,11 @@ Coming soon...mit vielen zusätzlichen Funktionen und Optionen.
 
 ### Weitere WordPress-Plugins
 
-### Taskwilly 2.0 PRO
+#### Taskwilly 2.0 PRO
 Projekt-, Dienst-, Raum und Einsatzplanung für Handwerksbetriebe (auch als LINUX-Paket erhältlich)
-### widilosocial
+#### widilosocial
 Dein eigenes soziales Netzwerk / dein eigenes Intranet
-### widilocloud
+#### widilocloud
 Eine selbstgehostete Dropbox mit einem umfassenden Dokumentmanagement
-###Calwilly
+####Calwilly
 Dein eigener, selbstgehosteter Doodle-Kalendar
