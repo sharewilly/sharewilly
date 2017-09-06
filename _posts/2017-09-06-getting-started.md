@@ -11,8 +11,8 @@ Sharewilly WP ist ein kostenfreies WordPress-Plugin der Münnecke & Vollmers GbR
 * Für die Buttons haben wir ausschliesslich statische Links verwendet - kein JavaScript!
   `Beispiel: http://www.facebook.com/sharer.php?u=<URL>&p[title]=<TITLE>`
 * Sharewilly WP ist effizient, schlank und schnell.
-* Wir tracken nicht! Sharewilly WP respektiert deine Privatspäre.
-* Sharewilly gibt es auch in der PRO-Version
+* Wir tracken nicht! Sharewilly WP respektiert deine Privatspäre und die deiner Besucher.
+* Sharewilly gibt es auch in der PRO-Version mit einer Reihe zusätzlicher Funktionen.
 
 ### Download
 Github has a [guide here](https://help.github.com/articles/creating-project-pages-manually/) for manually setting up a new project page.
