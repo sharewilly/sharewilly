@@ -5,7 +5,7 @@ date:   2017-09-05 07:20:16
 ---
 
 
-### Sharewilly WP PRO
+#### Sharewilly WP PRO
 
 Coming soon...mit vielen zusätzlichen Funktionen und Optionen.
 
@@ -17,10 +17,10 @@ Projekt-, Dienst-, Raum und Einsatzplanung für Handwerksbetriebe
 Dein eigenes soziales Netzwerk / dein eigenes Intranet
 #### widilocloud
 Eine selbstgehostete Dropbox mit einem umfassenden Dokumentmanagement
-#### Callmewilly
+#### callmewilly
 Dein eigener, selbstgehosteter Doodle-Kalendar
 
 ### Softwareapplikationen
 
 #### Taskwilly 2.0 PRO
-Umfangreiche Projekt-, Dienst-, Raum und Einsatzplanung für Handwerksbetriebe. Als LINUX-Paket (Debian, CentOS, Ubuntu) und für Windows-Server erhältlich.
+Umfangreiche Projekt-, Dienst-, Raum-, Event- und Einsatzplanung für kleine und mittlere Unternehmen. Als LINUX-Paket (Debian, CentOS, Ubuntu) und für Windows-Server erhältlich.
