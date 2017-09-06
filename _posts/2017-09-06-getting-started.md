@@ -5,7 +5,7 @@ date:   2017-09-06
 ---
 
 ### Sharewilly WP
-Sharewilly WP ist ein kostenfreies WordPress-Plugin der Münnecke & Vollmers GbR. Mit Sharewilly WP können deine Webseitenbesucher deine Beiträge und Webseiten in den Sozialen Medien teilen.  
+Mit Sharewilly WP können deine Webseitenbesucher deine Beiträge und Webseiten in den Sozialen Medien teilen. Sharewilly WP ist ein kostenfreies WordPress-Plugin der [Münnecke & Vollmers GbR](http://muennecke-vollmers.de).  
 
 * Sharing-Buttons für Facebook, Google+, Twitter, LinkedIn, XING & Pinterest
 * Für die Buttons haben wir ausschliesslich statische Links verwendet - kein JavaScript!
