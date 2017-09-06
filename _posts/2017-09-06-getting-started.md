@@ -1,18 +1,23 @@
 ---
 layout: post
-title:  "Getting Started"
+title:  "Installieren & loslegen"
 date:   2017-09-06
 ---
 
-### Sharewilly WP WordPress Plugin
+### Sharewilly WP
+Sharewilly WP ist ein kostenfreies WordPress-Plugin. Mit Sharewilly WP können deine Webseitenbesucher deine Beiträge und Webseiten in den Sozialen Medien teilen.  
+
+* lalal
+
+### Download
 Github has a [guide here](https://help.github.com/articles/creating-project-pages-manually/) for manually setting up a new project page.
 
-### Install
+### Installieren
 Clone or download the .zip of this repository and copy the files onto your pages branch. To preview the page before
 pushing it live, run `bundle install` and when this is complete `jekyll serve --watch` from your pages folder. 
 You can now visit http://localhost:4000 to view the page.
 
-### Customising
+### Anpassen
 To change the colourscheme and font stack, open `css/main.scss` in your editor and configure the variables defined there:
 
 {% highlight scss %}
