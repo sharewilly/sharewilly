@@ -25,7 +25,7 @@ Um das Sharewilly WP WordPress Plugin auf deiner WordPress-Seite zu installieren
 2. Rufe deine WordPress-Seite auf und logge dich als Admin ein.
 3. Gehe im Admin-Menü zu > Plugins > Installieren. 
 4. Klicke auf > Plugin hochladen > Datei auswählen. 
-5. Wähle "sharewilly-wp.zip" von deiner Festplatte aus.
+5. Wähle "sharewilly-wp-master.zip" von deiner Festplatte aus.
 6. Klicke auf > Jetzt installieren. 
 7. Nachdem der Installationsvorgang erfolgreich abgeschlossen ist, klicke > Plugin aktivieren.
 
