@@ -1,6 +1,6 @@
 # Site Meta Data
 title: Project Title
-author: James Wigger
+author: Münnecke & Vollmers GbR
 description: "A short introduction of your project, this will be displayed in the meta description and the main banner area."
 keywords:
 
@@ -10,7 +10,7 @@ google_analytics:
 
 # Site Config
 baseurl: ""
-url: "http://username.github.io/project"
+url: "http://sharewilly.github.io/sharewilly"
 
 # Theme Settings
 hero_image: "images/default.jpg"
