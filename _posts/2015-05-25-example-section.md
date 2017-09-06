@@ -16,3 +16,5 @@ Coming soon...mit vielen zusätzlichen Funktionen und Optionen.
 *widilosocial - Dein eigenes soziales Netzwerk / dein eigenes Intranet
 
 *widilocloud - Eine selbstgehostete Dropbox mit einem umfassenden Dokumentmanagement
+
+*Joinwilly - Dein eigener, selbstgehosteter Doodle-Kalendar
