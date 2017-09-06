@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weitere Funktionen mit Sharewilly WP PRO"
+title:  "Was gibt's sonst noch"
 date:   2017-09-05 07:20:16
 ---
 
