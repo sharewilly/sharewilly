@@ -7,6 +7,8 @@ Sharewilly WP is a very simple and clean WordPress-Plugin. Once installed and ac
 
 [Installation & FAQ](https://github.com/sharewilly/sharewilly-wp/) 
 
+![Sharewilly Buttons](https://www.teufelswerk.net/wp-content/uploads/2017/09/sharewilly-buttons.png)
+
 Simple sharing - Sharewilly WP :-)
 
 Copyright (c) 2017 Münnecke & Vollmers GbR
