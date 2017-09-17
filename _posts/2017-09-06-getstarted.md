@@ -36,6 +36,7 @@ Sharewilly WP erscheint nun automatisch auf all deinen Seiten und in deinen Beit
 ### Auf welchen Seiten wird Sharewilly WP eingesetzt?
 
 [https://teufelswerk.net](https://teufelswerk.net)
+Wenn du Sharewilly einsetzt und möchtest, dass deine Seite hier aufgeführt wird sende uns bitte eine Mail mit dem Link an: hallo@sharewilly.de
 
 So sieht beispielsweise das Fenster aus, wenn du im teufelswerk auf den "bei Facebook teilen" Button klickst:
 
