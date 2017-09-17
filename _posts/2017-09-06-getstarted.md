@@ -29,7 +29,10 @@ Um das Sharewilly WP WordPress Plugin auf deiner WordPress-Seite zu installieren
 6. Klicke auf > Jetzt installieren. 
 7. Nachdem der Installationsvorgang erfolgreich abgeschlossen ist, klicke > Plugin aktivieren.
 
-Sharewilly WP erscheint nun automatisch auf all deinen Seiten und in deinen Beiträgen jeweils am Ende der Seite bzw. unter den Beiträgen.
+Sharewilly WP erscheint nun automatisch auf all deinen Seiten und in deinen Beiträgen jeweils am Ende der Seite bzw. unter den Beiträgen:
+
+So sieht's aus:
+![Sharewilly Buttons](https://www.teufelswerk.net/wp-content/uploads/2017/09/sharewilly-buttons.png)
 
 ### Optionen / Anpassen
 
