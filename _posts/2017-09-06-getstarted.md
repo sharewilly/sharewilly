@@ -33,10 +33,6 @@ Sharewilly WP erscheint nun automatisch auf all deinen Seiten und in deinen Beit
 
 ![Sharewilly WP Buttons](https://www.teufelswerk.net/wp-content/uploads/2017/09/sharewilly-buttons.png)
 
-So sieht beispielsweise das Fenster aus, wenn du auf den "bei Facebook teilen" Button klickst:
-
-![Teilen Fenster](https://github.com/sharewilly/sharewilly/blob/master/images/Sharewilly-WP-teilen-Fenster.png)
-
 ### Auf welchen Seiten wird Sharewilly WP eingesetzt?
 
 [https://teufelswerk.net](https://teufelswerk.net)
