@@ -35,7 +35,7 @@ Sharewilly WP erscheint nun automatisch auf all deinen Seiten und in deinen Beit
 
 ### Auf welchen Seiten wird Sharewilly WP eingesetzt?
 
-![https://teufelswerk.net](https://teufelswerk.net)
+[https://teufelswerk.net](https://teufelswerk.net)
 
 ### Optionen / Anpassen
 
