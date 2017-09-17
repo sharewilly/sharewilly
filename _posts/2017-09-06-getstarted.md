@@ -37,6 +37,10 @@ Sharewilly WP erscheint nun automatisch auf all deinen Seiten und in deinen Beit
 
 [https://teufelswerk.net](https://teufelswerk.net)
 
+So sieht beispielsweise das Fenster aus, wenn du im teufelswerk auf den "bei Facebook teilen" Button klickst:
+
+![Teilen Fenster](https://github.com/sharewilly/sharewilly/blob/master/images/Sharewilly-WP-teilen-Fenster-small.png)
+
 ### Optionen / Anpassen
 
 Nachdem du Sharewilly WP installiert hast, erscheint ein neuer Menüpunkt in deinem Admin-Menü auf der linken Seite "Sharewilly WP". Auf der Seite mit den Optionen kannst du den Text vor den Teilen-Buttons ändern.
