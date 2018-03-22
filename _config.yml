@@ -2,7 +2,7 @@
 title: Sharewilly WP
 author: Münnecke & Vollmers GbR
 description: "DSGVO-konform! Mit unserem kostenfreien WordPress-Plugin können deine Webseiten-Besucher deine Beiträge und Seiten in den Sozialen Medien teilen."
-keywords:
+keywords: DSGVO, Wordpress, Plugin, Share-Buttons, HTML, PHP
 
 # Sharing Options
 android_accent: "#00CBC4"
@@ -15,7 +15,7 @@ url: "http://sharewilly.github.io/sharewilly"
 # Theme Settings
 hero_image: "images/default.jpg"
 homepage: "http://muennecke-vollmers.de/impressum"
-download_link: "https://github.com/sharewilly/sharewilly-wp/archive/master.zip"
+download_link: "https://github.com/sharewilly/sharewilly-wp/archive/Version-1.0.1.zip"
 
 
 
