@@ -5,10 +5,11 @@ date:   2017-09-06
 ---
 
 ### Sharewilly WP
-Mit Sharewilly WP können deine Webseitenbesucher deine Beiträge und Webseiten in den sozialen Medien teilen. Sharewilly WP ist ein kostenfreies WordPress-Plugin der [Münnecke & Vollmers GbR](http://muennecke-vollmers.de).  
+DSGVO-konform! Mit Sharewilly WP können deine Webseitenbesucher deine Beiträge und Webseiten datenschutzkonform in den sozialen Medien teilen. Sharewilly WP ist ein kostenfreies WordPress-Plugin der [Münnecke & Vollmers GbR](http://muennecke-vollmers.de).  
 
 * Teilen-Buttons für Facebook, Google+, Twitter, LinkedIn, XING & Pinterest
-* Für die Buttons haben wir ausschliesslich statische Links verwendet - kein JavaScript!
+* DSGVO-konform! Mit Sharewilly WP kannst du Social-Media-Buttons datenschutzkonform nutzen
+* Für die Buttons haben wir ausschliesslich statische HTML-Links verwendet - kein JavaScript, keine iframes!
   `Beispiel: http://www.facebook.com/sharer.php?u=<URL>&p[title]=<TITLE>`
 * Sharewilly WP ist effizient, schlank und schnell.
 * Wir tracken nicht! Sharewilly WP respektiert deine Privatspäre und die deiner Besucher.
