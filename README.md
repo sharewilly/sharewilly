@@ -3,7 +3,7 @@
 # Sharewilly WP - Simple sharing buttons
 Sharewilly WP is a very simple and clean WordPress-Plugin. Once installed and activated, your website visitors will be able to share your posts and pages on social networks. 
 
-[Download Sharewilly WP](https://github.com/sharewilly/sharewilly-wp/archive/master.zip)
+[Download Sharewilly WP](https://github.com/sharewilly/sharewilly-wp/archive/Version-1.0.1.zip)
 
 [Installation & FAQ](https://github.com/sharewilly/sharewilly-wp/) 
 
