@@ -16,13 +16,13 @@ DSGVO-konform! Mit Sharewilly WP können deine Webseitenbesucher deine Beiträge
 * Sharewilly gibt es auch in der PRO-Version mit einer Reihe zusätzlicher Funktionen.
 
 ### Download
-Hier kannst du [Sharewilly WP herunterladen](https://github.com/sharewilly/sharewilly-wp/archive/master.zip).
+Hier kannst du [Sharewilly WP herunterladen](https://github.com/sharewilly/sharewilly-wp/archive/Version-1.0.1.zip).
 
 ### Installieren
 
 Um das Sharewilly WP WordPress Plugin auf deiner WordPress-Seite zu installieren, kannst du den eingebauten WordPress-Plugin-Installer nutzen:
 
-1. Lade [Sharewilly WP (ZIP)](https://github.com/sharewilly/sharewilly-wp/archive/master.zip) auf deine Festplatte.
+1. Lade [Sharewilly WP (ZIP)](https://github.com/sharewilly/sharewilly-wp/archive/Version-1.0.1.zip) auf deine Festplatte.
 2. Rufe deine WordPress-Seite auf und logge dich als Admin ein.
 3. Gehe im Admin-Menü zu > Plugins > Installieren. 
 4. Klicke auf > Plugin hochladen > Datei auswählen. 
